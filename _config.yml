@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paulo Ricardo"
+title                    : "Paulo do Carmo"
 title_separator          : "-"
-name                     : &name "Paulo Ricardo"
-description              : &description "Masters Student at ICMC-USP"
+name                     : &name "Paulo do Carmo"
+description              : &description "Master's Student at ICMC-USP"
 url                      : https://paulorvdc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PauloRVdC/paulorvdc.github.io"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paulo Ricardo"
-  avatar           : "profile.jpg"
+  name             : "Paulo do Carmo"
+  avatar           : "profile.png"
   bio              : "Masters Student at ICMC-USP"
   location         : "São Carlos, São Paulo, Brasil"
   employer         :
