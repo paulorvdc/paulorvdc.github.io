@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Paulo do Carmo"
 title_separator          : "-"
 name                     : &name "Paulo do Carmo"
-description              : &description "Master's Student at ICMC-USP"
+description              : &description "Researcher at HTWK Leipzig"
 url                      : https://paulorvdc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PauloRVdC/paulorvdc.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Paulo do Carmo"
   avatar           : "profile.png"
-  bio              : "Masters Student at ICMC-USP"
-  location         : "São Carlos, São Paulo, Brasil"
+  bio              : "Researcher at HTWK Leipzig"
+  location         : "Leipzig, Saxony, Germany"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=QRCC07AAAAAJ&"
   email            :
