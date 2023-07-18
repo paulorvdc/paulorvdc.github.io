@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, State University From Midwest (UNICENTRO), 2019
-* M.S. in Computer Science and Computational Mathematics, University of São Paulo (USP), 2022
+* B.Sc. in Computer Science, State University From Midwest (UNICENTRO), 2016-2019
+* M.Sc. in Computer Science and Computational Mathematics, University of São Paulo (USP), 2020-2022
 
 Work experience
 ======
