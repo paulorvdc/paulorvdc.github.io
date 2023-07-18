@@ -19,7 +19,7 @@ Work experience
 * HTWK-Leipzig from October 2022: Researcher
   * Discovering Natural Inspired Products from Brazilian Biodiversity (DINOBBIO)
 
-* HTWK-Leipzig from April 2022 until June 2023: Guest Researcher
+* HTWK-Leipzig from April 2022 until June 2022: Guest Researcher
   * Discovering Natural Inspired Products from Brazilian Biodiversity (DINOBBIO)
 
 * Núcleo de Educação a Distância UNICENTRO from May 2018 until December 2019: Scholarship Researcher
