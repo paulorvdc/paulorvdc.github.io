@@ -10,4 +10,4 @@ location: "Leipzig, Germany"
 
 [More information here](https://www.youtube.com/live/n8Kb2P8ilwg?feature=share&t=25619)
 
-Presenting the DINOBBIO project and some results with the Automatic Extraction of Biochemical Knowledge from Acamic Papers contained in NatUKE and the BiKE Challenge
+Presenting the DINOBBIO project and some results with the Automatic Extraction of Biochemical Knowledge from Academic Papers contained in NatUKE and the BiKE Challenge
