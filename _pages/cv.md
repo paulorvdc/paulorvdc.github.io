@@ -13,11 +13,15 @@ Education
 ======
 * B.Sc. in Computer Science, State University From Midwest (UNICENTRO), 2016-2019
 * M.Sc. in Computer Science and Computational Mathematics, University of São Paulo (USP), 2020-2022
+* PhD candidate in Computer Science, Leibniz University Hannover (LUH), started in 2025
 
 Work experience
 ======
 * HTWK-Leipzig from October 2022: Researcher
   * Discovering Natural Inspired Products from Brazilian Biodiversity (DINOBBIO)
+
+* HTWK-Leipzig from March 2025 until September 2025: Lecturer
+  * Semantic Web lecturer for the Summer Semester in 2025
 
 * HTWK-Leipzig from April 2022 until June 2022: Guest Researcher
   * Discovering Natural Inspired Products from Brazilian Biodiversity (DINOBBIO)

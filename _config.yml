@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Paulo do Carmo"
 title_separator          : "-"
 name                     : &name "Paulo do Carmo"
-description              : &description "Researcher at HTWK Leipzig"
+description              : &description "PhD Candidate at LUH, Researcher at HTWK Leipzig"
 url                      : https://paulorvdc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paulorvdc/paulorvdc.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Paulo do Carmo"
   avatar           : "profile.png"
-  bio              : "Researcher at HTWK Leipzig"
+  bio              : "PhD Candidate at LUH, Researcher at HTWK Leipzig"
   location         : "Leipzig, Germany"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=QRCC07AAAAAJ&"
