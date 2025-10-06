@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* HTWK-Leipzig from October 2022: Researcher
+* InfAI from October 2025: Researcher
+  * Scalable and Quantum Resilient Heterogeneous Edge Computing enabling Trustworthy AI (SMARTY)
+
+* HTWK-Leipzig from October 2022 until September 2025: Researcher
   * Discovering Natural Inspired Products from Brazilian Biodiversity (DINOBBIO)
 
 * HTWK-Leipzig from March 2025 until September 2025: Lecturer
